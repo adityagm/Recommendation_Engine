@@ -9,4 +9,4 @@ I have implemented a recommendation engine as both Collaborative Recommendation 
 
 Collaborative Recommendation Engine EDA:
 
-
+![](images/recSys-collaborative-movie_dist_by_year.png)
